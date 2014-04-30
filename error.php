@@ -7,7 +7,7 @@ include '../header.php';
 <h1>
     <span>Missing URL</span>
 </h1>
-<h2>Ext-----ra</h2>
+<h2>Ext--#######---ra</h2>
 <div class="info-container">
     <div class="inner-border clear-fix">
         <h2 class="info-top">Page Not Found Error (HTML 404 Error)</h2>
