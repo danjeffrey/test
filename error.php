@@ -25,6 +25,7 @@ include '../header.php';
                 </li>                
             </ol>
             <p>Please return to the top level page.</p> 
+            <strong>Git is great</strong>            
         </div>
     </div>
 </div>
